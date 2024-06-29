@@ -16,7 +16,7 @@ Firebase and SCSS were used in the project created with the collaboration of Vit
 
 You can access the visual of the project below.
 
-
+![Animation](https://github.com/oranmehmetsirin/ChatApp/blob/main/gif.gif?raw=true)
 
 # React + Vite
 
